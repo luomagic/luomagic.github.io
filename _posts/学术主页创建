@@ -2,7 +2,7 @@
 layout:     post   				    # 使用的布局（不需要改）
 title:      My phd life 				# 标题 
 subtitle:   Hello World, Hello PHD #副标题
-date:       2020-03-15 				# 时间
+date:       2021-03-15 				# 时间
 author:     Pluo						# 作者
 catalog: true 						# 是否归档
 tags:								#标签
